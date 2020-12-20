@@ -4,5 +4,3 @@
 ### To run `python app.py`
 ### go to `localhost:5000`
 ### Use the login credentials from the `app_keys.json` file
-
-### App screenshots available in the screenshot folder
